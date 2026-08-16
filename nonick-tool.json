@@ -1,0 +1,11 @@
+{
+    "version":  "0.22.0",
+    "pub_date":  "2026-08-16T19:21:35Z",
+    "notes":  "Fase 2 completa: con il riferimento vanilla i fix .ybn ora RICOSTRUISCONO anche le facce aggiunte (BVH rigenerato e validato). Include cartella vanilla della 0.21.",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSmJUMzRScUpGVnQ1MFM4czJHcTd0WXRCZFk1QVlPNzBvcUM1VlNLQ2h2UG0xeTgrc05odDdVYllwYkhaVThHYzVKcy92blhaOTlGdkhicDBrREhEaGZWYmMweCtscGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTA4MDgwCWZpbGU6Tk9OSUNLIEhVQl8wLjIyLjBfeDY0LXNldHVwLmV4ZQpEbjhEVEpXUXBGRlRBT25kdGh5ZjNLQUxxbmI0b3NnL1RuQXpONE8rSlBsZTgxVFZxRW80N2lLU1RWZUg5L29qem1UMU54eHgvT3haZ0VyUVZNempEdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/leodeveloper500-ops/ResourcesVersion/main/nonick-hub-0.22.0-setup.exe"
+                                         }
+                  }
+}
