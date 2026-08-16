@@ -1,0 +1,11 @@
+{
+    "version":  "0.19.0",
+    "pub_date":  "2026-08-16T12:47:29Z",
+    "notes":  "Modalita Compatibility Patch (solo file in conflitto, fixati - stile fix pack), file escrow-criptati marcati in rosso e mai toccati, collisioni .ybn nel Map Viewer 3D.",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSmJUMzRScUpGVnRSajI5MkdZK0UyUFo3SVhLYlU0clFaUnp4MEpTUWJabmVweENWRDBFYXZOVmpaSHBrWnJIVzlpUHJXTzllYitLQjVudlFIZHNjdlFIYXBacVZ6MmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODg0NDM1CWZpbGU6Tk9OSUNLIEhVQl8wLjE5LjBfeDY0LXNldHVwLmV4ZQpIWWhkRVlMbTAwNnB3RDFhL3V2SkNqZUwvV2E3dkt2OEJVK1pYWThubUdsZmVSSmxJemJ5UzI1WUFUOEhvWU5qMjh2STEzY1d0eWdBR045SUtMSEpCQT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/leodeveloper500-ops/ResourcesVersion/main/nonick-hub-0.19.0-setup.exe"
+                                         }
+                  }
+}
