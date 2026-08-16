@@ -1,0 +1,11 @@
+{
+    "version":  "0.20.0",
+    "pub_date":  "2026-08-16T13:07:08Z",
+    "notes":  "Compatibility Patch completa: i .ybn in conflitto vengono FUSI (le rimozioni di entrambe le versioni combinate in un file), piu tutte le novita 0.19: file escrow in rosso, collisioni 3D nel Map Viewer.",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSmJUMzRScUpGVmt6RTN0ZGdyL0pWU0NqaUxzRUkwWlQvQzNXUm5xa1k2R3N1U2llOUlQaWRVMi9yY0dRcU4yU2tObkNZY1dIMUptUkJjRDJBZm1aNCtIMW5LK0RmTHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODg1NjEzCWZpbGU6Tk9OSUNLIEhVQl8wLjIwLjBfeDY0LXNldHVwLmV4ZQozbnpxWXhvU01BRkVjR0ptMk8vNjB4QkNsSUJGQWMreTdwVE83a2tQRlRBMXAvN01SL1QvMmxmbkc0RkhDd0ZWa0dkeXpmbXFUaFVpSHdNdWY3bWRDQT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/leodeveloper500-ops/ResourcesVersion/main/nonick-hub-0.20.0-setup.exe"
+                                         }
+                  }
+}
